@@ -1,8 +1,8 @@
 def bubble_sort(array)
   array.length.times do
-    array.each_with_index do |value, index|
+    array.each_with_index do |item, index|
       next unless array[index + 1]
-      next if value < array[index + 1]
+      next if item < array[index + 1]
       array[index], array[index + 1] = array[index + 1], array[index]
     end
   end
