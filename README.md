@@ -8,9 +8,9 @@ The purpose of this project was to create two bubble sorting algorithms; The fir
 
 ### To get a local copy of the repository please run the following commands on your terminal:
 
-    1. git clone https://github.com/El-Potato-Slayer/bubble-sorting.git
+    1. git clone https://github.com/DsunilK/bubble_sorting.git
     2. cd into above cloned directory
-    3. run ruby bubble-sorting.rb
+    3. run ruby bubble_sort.rb
 
 ## Built With
 
