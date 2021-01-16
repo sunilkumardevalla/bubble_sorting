@@ -3,6 +3,7 @@ def bubble_sort(array)
     array.each_with_index do |item, index|
       next unless array[index + 1]
       next if item < array[index + 1]
+
       array[index], array[index + 1] = array[index + 1], array[index]
     end
   end
@@ -29,4 +30,4 @@ def bubble_sort_by(array)
   array
 end
 
-puts bubble_sort_by(%w[Sunil Sunny hey hi hello]) {| left, right | left.length - right.length}
+puts bubble_sort_by(%w[Sunil Sunny hey hi hello]) {|left, right| left.length - right.length }
