@@ -41,4 +41,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [Apache License 2.0](https://github.com/DsunilK/bubble_sorting/blob/main/LICENSE)
+This project is [Apache License 2.0](https://github.com/DsunilK/bubble_sorting/blob/main/LICENSE 
