@@ -1,4 +1,4 @@
-# bubble_sorting
+## bubble_sorting
 
 The purpose of this project was to create two bubble sorting algorithms; The first bubble sorting algorithm was implement as a normal method, while the second algorithm was meant to work as a block by making use of the "yield" keyword.
 
