@@ -10,7 +10,7 @@ def bubble_sort(array)
   array
 end
 
-array = [3, 1, 5, 9, 4, 7, 1, 2, 5, 9, 8, 10]
+array = [3, 1, 5, 9, 4, 7, 1, 2, 5, 9, 8]
 
 puts bubble_sort(array)
 
