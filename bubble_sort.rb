@@ -1,4 +1,5 @@
 # def initial method
+
 def bubble_sort(array)
   array.length.times do
     array.each_with_index do |item, index|
